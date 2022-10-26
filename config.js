@@ -44,7 +44,7 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62821429610103'
+global.nomorbot = '62821429610100'
 global.nomorown = '6282142961010'
 global.namebot = 'Radja Luxiラ'
 global.nameown = 'ᴹᴿ᭄ Radja ×፝֟͜×'
