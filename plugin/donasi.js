@@ -17,7 +17,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┃✾ Ovo   [085330761834]
 ┗━━━━ꕥ
 ┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
-┃ Ingin donasi? Wa.me/6282142961010
+┃ Ingin donasi? Wa.me/62821429610107
 ┃ _Hasil donasi akan digunakan buat sewa_
 ┃ _atau beli *RDP/VPS* agar bot bisa jalan_
 ┃ _24jam tanpa kendala_
