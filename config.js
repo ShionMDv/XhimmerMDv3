@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/callmeking_nine?igshid=YmMyMTA2M2Y='
-global.syt = 'https://youtube.com/channel/UC8v7LaOeOvtNECoXF5Q9cfg'
-global.sgh = 'https://github.com/RadjaNine'
-global.sgc = 'https://chat.whatsapp.com/JyfkFoveiwm53BXFKGxqhM'
-global.swa = 'wa.me/62821429610107'
+global.sig = 'https://instagram.com/_alv.stn'
+global.syt = 'https://youtube.com/notFound'
+global.sgh = 'https://github.com/ShionMDv'
+global.sgc = 'https://chat.whatsapp.com/'
+global.swa = 'wa.me/6287734910547'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085330761834'
-global.povo = '085330761834'
-global.pgopay = '082142961010'
-global.ppulsa = '082142961010'
-global.ppulsa2 = '-'
+global.pdana = '087734910547'
+global.povo = '-----'
+global.pgopay = '-----'
+global.ppulsa = '087734910547'
+global.ppulsa2 = '085848453523'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62821429610103'
-global.nomorown = '62821429610107'
-global.namebot = 'Radja Luxiラ'
-global.nameown = 'ᴹᴿ᭄ Radja ×፝֟͜×'
+global.nomorown = '6287734910547'
+global.namebot = 'Xhimmer'
+global.nameown = 'kyami'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62821429610107', 'ᴹᴿ᭄ Radja ×፝֟͜×', 'true']
+  ['6287734910547', 'kyami', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Raja Luxiラ | By ᴹᴿ᭄ Radja ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ Radja ×፝֟͜×'
-global.wm3 = 'Raja Luxiラ | By ᴹᴿ᭄ Radja ×፝֟͜×'
+global.wm = 'XhimmerBot | By Kyami' //Main Watermark
+global.wm2 = 'KyamiCyx'
+global.wm3 = 'XhimmerBot | By KyamiCyx'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Radja Luxiラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ Radja ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ Radja ×፝֟͜×'
+global.titlebot = `XhimmerBot | ʙʏ ${global.nameown}`
+global.author = 'Kyami-Sama' 
+global.packname = 'XhimmerBot'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
